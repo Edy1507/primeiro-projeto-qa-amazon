@@ -1,1 +1,6 @@
-ID do Bug: BUG-001Título: Botão "Adicionar ao carrinho" fica sobreposto ao texto de descrição em telas menores (Resolução 360x740).Gravidade: Menor (Problema visual de layout, mas a função ainda está ativa).Prioridade: Baixa.Ambiente: Google Chrome v120 / Emulador Mobile (Samsung Galaxy S20 Ultra).Passos para Reproduzir:Acessar a página de qualquer produto (Ex: Link do livro testado).Reduzir a largura da tela do navegador para simular um celular pequeno.Rolar a página até a seção de compra.Resultado Obtido: O botão amarelo de compra ficou em cima das últimas linhas do texto de frete, tornando a leitura impossível.Resultado Esperado: O layout deve ser responsivo. O botão deve se mover para baixo do texto, mantendo um espaçamento (margin) de segurança.
+# 🐛 Relatório de Bug (Bug Report)
+
+> **ID do Bug:** BUG-001  
+> **Título:** Botão "Adicionar ao carrinho" fica sobreposto ao texto de descrição em telas menores (Resolução 360x740)  
+> **Gravidade:** Menor (Problema visual de layout, mas a função ainda está ativa)  
+> **Prioridade:** Baixa  
